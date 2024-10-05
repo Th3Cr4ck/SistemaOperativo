@@ -1,0 +1,10 @@
+C:\Users\ihernandez\source\repos\Procesos\ProcesosGUIFramework\obj\Debug\ProcesosGUIFramework.csproj.AssemblyReference.cache
+C:\Users\ihernandez\source\repos\Procesos\ProcesosGUIFramework\obj\Debug\ProcesosGUIFramework.Form1.resources
+C:\Users\ihernandez\source\repos\Procesos\ProcesosGUIFramework\obj\Debug\ProcesosGUIFramework.Properties.Resources.resources
+C:\Users\ihernandez\source\repos\Procesos\ProcesosGUIFramework\obj\Debug\ProcesosGUIFramework.csproj.GenerateResource.cache
+C:\Users\ihernandez\source\repos\Procesos\ProcesosGUIFramework\obj\Debug\ProcesosGUIFramework.csproj.CoreCompileInputs.cache
+C:\Users\ihernandez\source\repos\Procesos\ProcesosGUIFramework\bin\Debug\ProcesosGUIFramework.exe.config
+C:\Users\ihernandez\source\repos\Procesos\ProcesosGUIFramework\bin\Debug\ProcesosGUIFramework.exe
+C:\Users\ihernandez\source\repos\Procesos\ProcesosGUIFramework\bin\Debug\ProcesosGUIFramework.pdb
+C:\Users\ihernandez\source\repos\Procesos\ProcesosGUIFramework\obj\Debug\ProcesosGUIFramework.exe
+C:\Users\ihernandez\source\repos\Procesos\ProcesosGUIFramework\obj\Debug\ProcesosGUIFramework.pdb
